@@ -1,5 +1,10 @@
 # Static Website using Docker
 
+## Project Preview
+
+![Project Screenshot](screenshots/result.png)
+
+
 ## Project Description
 This project demonstrates containerization of a static HTML/CSS website using Nginx and Docker.
 
